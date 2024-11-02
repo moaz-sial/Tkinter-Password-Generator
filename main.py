@@ -4,7 +4,6 @@ from tkinter import messagebox
 import random
 import pyperclip
 import json
-# ----------------------------FIND PASSWORD -----------------------------------#
 from tkinter import messagebox
 
 # ---------------------------- FIND PASSWORD ----------------------------------- #
