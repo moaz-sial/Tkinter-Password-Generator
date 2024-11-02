@@ -1,18 +1,18 @@
 {
     "Amazon": {
-        "email": "angela@gmail.com",
+        "email": "example@gmail.com",
         "password": "6XSC}%5?QD~A_l$GO"
     },
     "Google": {
-        "email": "angela@gmail.com",
+        "email": "12example@gmail.com",
         "password": "-PSE1(A5s>6*R1YR|-"
     },
     "Facebook": {
-        "email": "angela@gmail.com",
+        "email": "example123@gmail.com",
         "password": ")zts1}+RE66G0Smw>"
     },
     "Netflix": {
-        "email": "angela@gmail.com",
+        "email": "abc123@gmail.com",
         "password": "&VAO8aP?5qW}Q~u"
     }
 }
